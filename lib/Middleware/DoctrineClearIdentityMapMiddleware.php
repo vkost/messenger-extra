@@ -15,7 +15,7 @@ use TypeError;
 use function get_class;
 use function gettype;
 use function is_object;
-use function Safe\sprintf;
+use function sprintf;
 
 /**
  * Middleware that clears the doctrine ORM identity map after processing a message.

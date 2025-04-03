@@ -14,7 +14,7 @@ use function array_merge;
 use function explode;
 use function parse_str;
 use function Safe\parse_url;
-use function Safe\substr;
+use function substr;
 use function strpos;
 
 use const PHP_URL_SCHEME;
